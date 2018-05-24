@@ -1,0 +1,15 @@
+Steps to be done in order to make this project:
+
+1. sign up in https://apps.twitter.com/
+2. Create an App.
+3. Generate Keys and Access token(As they are being used by tweepy library)
+4.Copy paste all Keys and Access token in Sentiment Analyses.py file.
+5 Run the file.
+
+
+
+Theory:
+Project uses 2 libraries
+1 tweepy to make api connection and use it various functions.
+2. Textblob to get sentiment and polarity(how close factual data to actual data)
+Note: Encoding decoding is done to get rid of errors.

@@ -1,0 +1,285 @@
+b'RT @tictoc: \xe2\x80\x9cDeadpool 2\xe2\x80\x9d collected $125 million on its opening weekend in theaters, toppling \xe2\x80\x9cAvengers: Infinity War\xe2\x80\x9d #tictocnews https://t\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'Why Thor Didn\xe2\x80\x99t Kill Thanos In Avengers: Infinity War https://t.co/kaiwd4oQxf'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'@vale_floresb Avengers Infinity War'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @heroichollywood: \xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Crosses $600M At The Domestic Box Office https://t.co/zLAGzcTsPp https://t.co/zbXWG4NlDW'
+Sentiment(polarity=0.0, subjectivity=0.1)
+
+
+b'\xf0\x9f\x93\xb7 maryxglz: Tom Hiddleston attends the press conference for Avengers: Infinity War on April 12, 2018 in... https://t.co/fo6YIswNTz'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b"RT @ComicBook: ICYMI: Fans can't help but wonder if this Avengers: Infinity War scene is a direct reference to Buffy the Vampire Slayer: ht\xe2\x80\xa6"
+Sentiment(polarity=0.1, subjectivity=0.4)
+
+
+b'RT @MelodyMarine: "Avengers : Infinity War" except instead of dust, they turn into tsum-tsums.\n\n(Source : lomadoodles on Tumblr) https://t.\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b"RT @Aaayysoph: @atgreaterthings @_Alexandria____ Avengers: Picking Up Pieces\n\nAvengers Infinity War 2: Electric Boogaloo\n\nAvengers: Thanos'\xe2\x80\xa6"
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @MarvelousNews: Avengers: Infinity War 1:6 Doctor Strange Figure From Hot Toys https://t.co/rDz84985Ym https://t.co/oXsTBSt2Db'
+Sentiment(polarity=0.1, subjectivity=0.5)
+
+
+b'I liked a @YouTube video https://t.co/SypC1Pn35V Avengers Infinity War with Ashish Chanchlani'
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+
+b'I liked a @YouTube video https://t.co/TeIMylP01U AVENGERS Infinity War Spoilers Talk &amp; Avengers 4 Theory Predictions'
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+
+b'RT @heroichollywood: \xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Is Now The Highest-Grossing Marvel Film In China https://t.co/M5zqjyjBon https://t.co/h3KhEhs\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b"Analysis = TRUE.\n\nLiberals Upset by 'Avengers Infinity War' Message: Environmentalism = Mass Murder https://t.co/wM221NZhFG via @ccdeditor"
+Sentiment(polarity=0.35, subjectivity=0.65)
+
+
+b'@VancityReynolds Dr. Strange bringing the green friend for Avengers Infinity War 2. https://t.co/haSOn2N1DV'
+Sentiment(polarity=-0.125, subjectivity=0.22499999999999998)
+
+
+b'RT @nimbus_mn: "Avengers Infinity War Part 2 is the most important sequel that will ever be released"\n\nMe: https://t.co/pUICTLhwAw'
+Sentiment(polarity=0.45, subjectivity=0.75)
+
+
+b"'Avengers: Infinity War' becomes top-grossing Marvel movie in China\xc2\xa0\xc2\xa0Los Angeles Times\n\nInfinity War Writers Explai\xe2\x80\xa6 https://t.co/Gbvg0V2rOT"
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'Just watched Avengers Infinity War. Too late but still classy. Lol'
+Sentiment(polarity=0.20000000000000004, subjectivity=0.7333333333333334)
+
+
+b'RT @chirithies: Avengers: Infinity War (2018) https://t.co/8kqAsHw3wa'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @MARVELOLOGY: If this isn\xe2\x80\x99t in avengers infinity war im suing https://t.co/VaAudl3dyL'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'@AaronCawley81 Avengers then. I mean I saw Avengers twice before Deadpool came out so didn\xe2\x80\x99t have to choose between\xe2\x80\xa6 https://t.co/WrJsAjVH9C'
+Sentiment(polarity=-0.3125, subjectivity=0.6875)
+
+
+b'Avengers: Infinity War Writers Reveal Why The Post Credits-Scene Didn\xe2\x80\x99t Tease\xc2\xa0Ant-Man https://t.co/IV7T3LJaei https://t.co/t1OukOPqUg'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @Lambernardo: Fixed it ***\nIron Man\nThe Incredible Hulk\nIron Man 2 \nThor \nCapt. America \nAvengers\nIron Man 3 \nThor TDW\nCapt. America TWS\xe2\x80\xa6'
+Sentiment(polarity=0.5, subjectivity=0.55)
+
+
+b'watching Avengers: Infinity War (film) at Cineworld Sheffield https://t.co/Rl7TgK3QMn'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'I added a video to a @YouTube playlist https://t.co/CRGt9rLvd7 #10 - Avengers: Infinity War (2018)'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'[ICYMI]  #64 [Review] Avengers Infinity War #concessionstand  https://t.co/DSpXEiVJi3 https://t.co/5A5ZnKDq7w'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'[ICYMI]  #80 Avengers: Infinity War #supernerdsuk  https://t.co/dYYRW6v3cY https://t.co/8lCpkDbB3G'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'The battle tactics the Avengers used in infinity war, especially in Wakanda were just plain awful.'
+Sentiment(polarity=-0.4047619047619047, subjectivity=0.7857142857142857)
+
+
+b"Top 10 Infinity War Questions Answered! Why didn't Thor Aim for Head? Groot's Last words? Avengers https://t.co/ai6096CNhB"
+Sentiment(polarity=0.3125, subjectivity=0.2833333333333333)
+
+
+b'RT @Cakes_Comics: 6 years and counting of my Avengers art, and it all comes down to this. Infinity War is out from tomorrow midnight. It\xe2\x80\x99s\xe2\x80\xa6'
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+
+
+b'RT @APPINOVATE: POOR JUSTICE LEAGUE https://t.co/SmtEqcv4QN #comedy #lol #funny #humor #jokes #haha #music #meme #lmao #gamedev #appdev #lo\xe2\x80\xa6'
+Sentiment(polarity=0.29000000000000004, subjectivity=0.72)
+
+
+b'Funko POP! Marvel Avengers Infinity War Iron Spider Chrome Red https://t.co/UUTvsmtwWb'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'POOR JUSTICE LEAGUE https://t.co/SmtEqcv4QN #comedy #lol #funny #humor #jokes #haha #music #meme #lmao #gamedev\xe2\x80\xa6 https://t.co/BqoJ1Hy7KI'
+Sentiment(polarity=0.29000000000000004, subjectivity=0.72)
+
+
+b'I liked a @YouTube video https://t.co/QtxeDtg7N7 Avengers Infinity War with Ashish Chanchlani'
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+
+b'RT @Lambernardo: Fixed it ***\nIron Man\nThe Incredible Hulk\nIron Man 2 \nThor \nCapt. America \nAvengers\nIron Man 3 \nThor TDW\nCapt. America TWS\xe2\x80\xa6'
+Sentiment(polarity=0.5, subjectivity=0.55)
+
+
+b"We said we'd have #Avengers Infinity War would have a match up today in a #poll \n\nWhich did you think was the bette\xe2\x80\xa6 https://t.co/6Du84qMjf8"
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @rdjscevans: Avengers: Infinity War (2018)\n\nDir: Anthony and Joe Russo https://t.co/aU7KzwYIEv'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @Frigga81: A Heartfelt Farewell to a Departed Marvel Favorite After AVENGERS: INFINITY WAR | Nerdist. FOOLS! #LokiLives! https://t.co/5K\xe2\x80\xa6'
+Sentiment(polarity=0.390625, subjectivity=1.0)
+
+
+b'Its just strange how Youtube is filled with so many videos of \xe2\x80\x9ccritics &amp; specialists\xe2\x80\x9d trying to show flaws in Aveng\xe2\x80\xa6 https://t.co/R4DkdEuzre'
+Sentiment(polarity=0.2833333333333334, subjectivity=0.5166666666666667)
+
+
+b'RT @buckyandsam: \xe2\x9c\xa8 give away \xe2\x9c\xa8\n- to win: avengers infinity war iron spider funko pop!\n- rt &amp; follow to enter (no saved accs)\n- shipping wor\xe2\x80\xa6'
+Sentiment(polarity=1.0, subjectivity=0.4)
+
+
+b'Why Infinity War Writers Picked Captain #Marvel Over Ant-Man - #Avengers #Avengers4 #AvengersInfinityWar -\xe2\x80\xa6 https://t.co/iHYiKAJ8Di'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b"RT @Frigga81: Loki's Storyline In 'Avengers: Infinity War' STUPID! Devoid of colour? He is a frost giant if dead true blue colour https://t\xe2\x80\xa6"
+Sentiment(polarity=-0.1583333333333333, subjectivity=0.5583333333333333)
+
+
+b"RT @MarvelChampions: Give your mobile device some armor with this awesome new Iron Man Mk. 50 wallpaper! Inspired by Marvel's @Avengers: In\xe2\x80\xa6"
+Sentiment(polarity=0.5852272727272727, subjectivity=0.7272727272727273)
+
+
+b'RT @hiddlethings: \xf0\x9f\x93\xb7 buckeed: Thor: Ragnarok // Avengers: Infinity War https://t.co/85l8RxYZLy'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @LightfootInHwd: Box Office Milestone: Marvel\xe2\x80\x99s \xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Tops $600M Domestic, $1.838B\xc2\xa0Globally https://t.co/aavY4vCZIh h\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.05)
+
+
+b'I liked a @YouTube video https://t.co/0BCYGZpK2J Avengers: Infinity War - [African Trailer]'
+Sentiment(polarity=0.3, subjectivity=0.4)
+
+
+b'I liked a @YouTube video https://t.co/Uxl8VOj41Y Avengers Infinity War INDONESIA'
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+
+b'RT @MarvelStudios: See if you can spot #Drax in this clip from @Avengers: #InfinityWar. Watch it again in theaters, get tickets now: https:\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @ComicBook: Avengers: #InfinityWar is now the highest grossing Marvel movie of all time in China. https://t.co/xbUXrbFDh1 https://t.co/l\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @ComicBook: Avengers: Infinity War\xe2\x80\x99s writers explained why they almost (but didn\xe2\x80\x99t) include the Netflix characters. https://t.co/tOkXfw9\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @ED_DI_IE: @AdvBarryRoux Avengers: Infinity war maybe? (SA edition) https://t.co/zIKBkxBpvN'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @heroichollywood: \xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Is Now The Highest-Grossing Marvel Film In China https://t.co/M5zqjyjBon https://t.co/h3KhEhs\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @ComicBookNOW: ICYMI: Is the AVENGERS: INFINITY WAR Post-Credits Scene a Shout Out to BUFFY THE VAMPIRE SLAYER? https://t.co/9VxnXQRned\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b"RT @ComicBookNOW: 'AVENGERS: INFINITY WAR' Becomes Highest Grossing MARVEL Movie Of All Time In CHINA! https://t.co/4cycZG70gV https://t.co\xe2\x80\xa6"
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'Avengers: Infinity War Writers Talk Deleted Scenes, Captain Marvel, And Hawkeye https://t.co/vohPbM9hBN'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'I liked a @YouTube video https://t.co/CReSzjf3b1 Avengers: Infinity War - Heimdall &amp; Loki Death Scene'
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+
+b'RT @Pop_StyIe: The Avengers: Infinity War writers explained what happened to Sharon Carter https://t.co/64DJH7cYB4'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @Movieman83: The blockbuster hit Avengers: Infinity War will be held over Fri Sat Sun, May 25, 26, 27, at the Story Theater in Story Cit\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @Lambernardo: Fixed it ***\nIron Man\nThe Incredible Hulk\nIron Man 2 \nThor \nCapt. America \nAvengers\nIron Man 3 \nThor TDW\nCapt. America TWS\xe2\x80\xa6'
+Sentiment(polarity=0.5, subjectivity=0.55)
+
+
+b'RT @StoryTheater83: The blockbuster hit Avengers: Infinity War will be held over Fri Sat Sun, May 25, 26, 27, at the Story Theater in Story\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @preserumstuckyx: i played the avengers infinity war theme on piano and made myself sad'
+Sentiment(polarity=-0.5, subjectivity=1.0)
+
+
+b'RT @SuperBroMovies: \xe2\x80\x98INFINITY WAR\xe2\x80\x99 Writers Reveal Why They Brought Back That Phase One Character (SPOILERS) https://t.co/9Wi5WyOqh3 https:/\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'Spend last years birthday watching Guardians of the galaxy Vol 2 ... Spent this years birthday watching Avenger: In\xe2\x80\xa6 https://t.co/shO0x5hzpZ'
+Sentiment(polarity=-0.05, subjectivity=0.08333333333333334)
+
+
+b"RT @ComicBook: ICYMI: Fans can't help but wonder if this Avengers: Infinity War scene is a direct reference to Buffy the Vampire Slayer: ht\xe2\x80\xa6"
+Sentiment(polarity=0.1, subjectivity=0.4)
+
+
+b'Retweeted Heroic Hollywood (@heroichollywood):\n\n\xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Is Now The Highest-Grossing Marvel Film In\xe2\x80\xa6 https://t.co/kpepgePjrC'
+Sentiment(polarity=0.7, subjectivity=0.9)
+
+
+b'RT @heroichollywood: \xe2\x80\x98Avengers: Infinity War\xe2\x80\x99 Is Now The Highest-Grossing Marvel Film In China https://t.co/M5zqjyjBon https://t.co/h3KhEhs\xe2\x80\xa6'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'RT @RobinsShadow: New Avengers: Infinity War trailer if you haven\xe2\x80\x99t seen it! This shit is amazing. My most anticipated movie of all time! h\xe2\x80\xa6'
+Sentiment(polarity=0.2988636363636364, subjectivity=0.6636363636363637)
+
+
+b'New LEGO set from Avengers: Infinity War has leaked https://t.co/OdqFQUn8Zj'
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+
+b'RT @WebbedMedia: WORLDWIDE GIVEAWAY: Want to win an #AvengersInfinityWar poster signed by #SpiderMan himself @TomHolland1996? Follow us and\xe2\x80\xa6'
+Sentiment(polarity=0.8, subjectivity=0.4)
+
+
+b'@AUTOAMERlCAN the issue is that it\xe2\x80\x99s called avengers: infinity war and the fourth avengers is untitled rn?? lol it\xe2\x80\xa6 https://t.co/jaZommhp4I'
+Sentiment(polarity=0.4, subjectivity=0.35)
+
+
+b'RT @Pop_StyIe: The Avengers: Infinity War writers explained what happened to Sharon Carter https://t.co/64DJH7cYB4'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+b'avengers : infinity war (2018) https://t.co/N6htk2liM0'
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+
+>>> 
